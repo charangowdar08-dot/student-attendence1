@@ -1,3 +1,6 @@
+# student-attendence1
+website
+>>>>>>> 256ad1e742038ef198a2c00d35ae736b197f2ae3
 # Student Attendance Management System
 
 A comprehensive web-based Student Attendance Management System built with Node.js, Express, MongoDB, and vanilla JavaScript. This system provides complete CRUD operations for student management and daily attendance tracking with monthly reporting capabilities.
@@ -263,3 +266,7 @@ Created as a Student Attendance Management System
 4. Node.js version is compatible (v14+)
 
 For questions or support, please refer to the documentation or create an issue in the project repository.
+=======
+# student-attendence1
+website
+>>>>>>> 256ad1e742038ef198a2c00d35ae736b197f2ae3
